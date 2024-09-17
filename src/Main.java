@@ -12,6 +12,7 @@ public class Main {
         cars.add(car1);
         cars.add(car2);
         System.out.println(cars);
+        System.out.println(cars);
         cars.add(car3);
         cars.add(car4);
 
